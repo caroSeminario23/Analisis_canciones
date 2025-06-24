@@ -21,7 +21,7 @@ Este repositorio presenta un caso de aplicación de la minería de textos. En es
 
 2. Clonar el repositorio en su IDE:
     ```
-    https://github.com/caroSeminario23/AE_Gloria.git
+    https://github.com/caroSeminario23/Analisis_canciones.git
     ```
 ## 5. Licencia
 [![Licencia](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
