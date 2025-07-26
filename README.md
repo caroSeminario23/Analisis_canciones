@@ -23,6 +23,8 @@ Este repositorio presenta un caso de aplicación de la minería de textos. En es
     ```
     https://github.com/caroSeminario23/Analisis_canciones.git
     ```
+3. Crea un entorno virtual "venv"
+4. Ejecuta los scripts de Jupyter
 ## 5. Licencia
 [![Licencia](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
